@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29287274108",
+    "firebase_url": "https://nodemcu-177da.firebaseio.com",
+    "project_id": "nodemcu-177da",
+    "storage_bucket": "nodemcu-177da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29287274108:android:ab24a25fed9c6813",
+        "android_client_info": {
+          "package_name": "com.example.mragil.nodemcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29287274108-1hd9aclrjbf7vrunjnmv4sakhivmbp7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mragil.nodemcu",
+            "certificate_hash": "8da1216c545b4d6e7ea8a205a65001bcd0fd7bd3"
+          }
+        },
+        {
+          "client_id": "29287274108-r7cnf34kgkuk903efbfpfbbd8i3la813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7S3HcpwOtCaADC2pC6dtKGOtx6E8WBmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29287274108-r7cnf34kgkuk903efbfpfbbd8i3la813.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
